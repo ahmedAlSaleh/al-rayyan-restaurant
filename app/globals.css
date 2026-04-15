@@ -1,0 +1,31 @@
+@import "tailwindcss";
+
+:root {
+  --rayyan-bg: #1a0805;
+  --rayyan-red: #cc2a1f;
+  --rayyan-orange: #ff8a22;
+  --rayyan-cream: #fff5e7;
+}
+
+@theme inline {
+  --color-background: var(--rayyan-bg);
+  --color-foreground: var(--rayyan-cream);
+  --font-sans: "Segoe UI", Tahoma, sans-serif;
+}
+
+body {
+  background:
+    radial-gradient(120% 80% at 80% 0%, rgba(255, 138, 34, 0.26), transparent 65%),
+    radial-gradient(100% 60% at 20% 12%, rgba(204, 42, 31, 0.24), transparent 68%),
+    var(--rayyan-bg);
+  color: var(--rayyan-cream);
+  font-family: "Segoe UI", Tahoma, sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+a {
+  text-decoration: none;
+}

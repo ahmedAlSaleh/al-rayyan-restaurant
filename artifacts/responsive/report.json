@@ -1,0 +1,682 @@
+[
+  {
+    "viewport": {
+      "name": "mobile-320x568",
+      "width": 320,
+      "height": 568
+    },
+    "overflowX": 0,
+    "scrollWidth": 320,
+    "viewportWidth": 320,
+    "offenders": [
+      {
+        "tag": "img",
+        "className": "object-cover object-center scale-105",
+        "left": -8,
+        "right": 328,
+        "width": 336
+      },
+      {
+        "tag": "div",
+        "className": "pointer-events-none absolute -right-24 top-[-15%] h-[28rem] w-[28rem] rounded-full bg-[rgba(255,138,34,0.32)] blur-3xl",
+        "left": -32,
+        "right": 416,
+        "width": 448
+      },
+      {
+        "tag": "div",
+        "className": "pointer-events-none absolute -left-12 bottom-[-20%] h-[25rem] w-[25rem] rounded-full bg-[rgba(204,42,31,0.24)] blur-3xl",
+        "left": -48,
+        "right": 352,
+        "width": 400
+      },
+      {
+        "tag": "div",
+        "className": "pointer-events-none absolute -left-36 top-18 h-72 w-72 rounded-full bg-[rgba(204,42,31,0.22)] blur-3xl",
+        "left": -144,
+        "right": 144,
+        "width": 288
+      },
+      {
+        "tag": "div",
+        "className": "pointer-events-none absolute -right-28 bottom-10 h-80 w-80 rounded-full bg-[rgba(255,138,34,0.22)] blur-3xl",
+        "left": 112,
+        "right": 432,
+        "width": 320
+      },
+      {
+        "tag": "div",
+        "className": "pointer-events-none absolute right-[-8%] top-6 h-64 w-64 rounded-full bg-[rgba(255,138,34,0.22)] blur-3xl",
+        "left": 89.59,
+        "right": 345.59,
+        "width": 256
+      },
+      {
+        "tag": "div",
+        "className": "pointer-events-none absolute left-[-8%] bottom-16 h-64 w-64 rounded-full bg-[rgba(204,42,31,0.2)] blur-3xl",
+        "left": -25.59,
+        "right": 230.41,
+        "width": 256
+      },
+      {
+        "tag": "div",
+        "className": "pointer-events-none absolute -left-20 top-1/2 h-56 w-56 -translate-y-1/2 rounded-full bg-[rgba(255,138,34,0.24)] blur-3x",
+        "left": -80,
+        "right": 144,
+        "width": 224
+      }
+    ]
+  },
+  {
+    "viewport": {
+      "name": "mobile-375x812",
+      "width": 375,
+      "height": 812
+    },
+    "overflowX": 0,
+    "scrollWidth": 375,
+    "viewportWidth": 375,
+    "offenders": [
+      {
+        "tag": "img",
+        "className": "object-cover object-center scale-105",
+        "left": -9.37,
+        "right": 384.38,
+        "width": 393.75
+      },
+      {
+        "tag": "div",
+        "className": "pointer-events-none absolute -right-24 top-[-15%] h-[28rem] w-[28rem] rounded-full bg-[rgba(255,138,34,0.32)] blur-3xl",
+        "left": 23,
+        "right": 471,
+        "width": 448
+      },
+      {
+        "tag": "div",
+        "className": "pointer-events-none absolute -left-12 bottom-[-20%] h-[25rem] w-[25rem] rounded-full bg-[rgba(204,42,31,0.24)] blur-3xl",
+        "left": -48,
+        "right": 352,
+        "width": 400
+      },
+      {
+        "tag": "div",
+        "className": "pointer-events-none absolute -left-36 top-18 h-72 w-72 rounded-full bg-[rgba(204,42,31,0.22)] blur-3xl",
+        "left": -144,
+        "right": 144,
+        "width": 288
+      },
+      {
+        "tag": "div",
+        "className": "pointer-events-none absolute -right-28 bottom-10 h-80 w-80 rounded-full bg-[rgba(255,138,34,0.22)] blur-3xl",
+        "left": 167,
+        "right": 487,
+        "width": 320
+      },
+      {
+        "tag": "div",
+        "className": "pointer-events-none absolute right-[-8%] top-6 h-64 w-64 rounded-full bg-[rgba(255,138,34,0.22)] blur-3xl",
+        "left": 149,
+        "right": 405,
+        "width": 256
+      },
+      {
+        "tag": "div",
+        "className": "pointer-events-none absolute left-[-8%] bottom-16 h-64 w-64 rounded-full bg-[rgba(204,42,31,0.2)] blur-3xl",
+        "left": -30,
+        "right": 226,
+        "width": 256
+      },
+      {
+        "tag": "div",
+        "className": "pointer-events-none absolute -left-20 top-1/2 h-56 w-56 -translate-y-1/2 rounded-full bg-[rgba(255,138,34,0.24)] blur-3x",
+        "left": -80,
+        "right": 144,
+        "width": 224
+      }
+    ]
+  },
+  {
+    "viewport": {
+      "name": "mobile-390x844",
+      "width": 390,
+      "height": 844
+    },
+    "overflowX": 0,
+    "scrollWidth": 390,
+    "viewportWidth": 390,
+    "offenders": [
+      {
+        "tag": "img",
+        "className": "object-cover object-center scale-105",
+        "left": -9.75,
+        "right": 399.75,
+        "width": 409.5
+      },
+      {
+        "tag": "div",
+        "className": "pointer-events-none absolute -right-24 top-[-15%] h-[28rem] w-[28rem] rounded-full bg-[rgba(255,138,34,0.32)] blur-3xl",
+        "left": 38,
+        "right": 486,
+        "width": 448
+      },
+      {
+        "tag": "div",
+        "className": "pointer-events-none absolute -left-12 bottom-[-20%] h-[25rem] w-[25rem] rounded-full bg-[rgba(204,42,31,0.24)] blur-3xl",
+        "left": -48,
+        "right": 352,
+        "width": 400
+      },
+      {
+        "tag": "div",
+        "className": "pointer-events-none absolute -left-36 top-18 h-72 w-72 rounded-full bg-[rgba(204,42,31,0.22)] blur-3xl",
+        "left": -144,
+        "right": 144,
+        "width": 288
+      },
+      {
+        "tag": "div",
+        "className": "pointer-events-none absolute -right-28 bottom-10 h-80 w-80 rounded-full bg-[rgba(255,138,34,0.22)] blur-3xl",
+        "left": 182,
+        "right": 502,
+        "width": 320
+      },
+      {
+        "tag": "div",
+        "className": "pointer-events-none absolute right-[-8%] top-6 h-64 w-64 rounded-full bg-[rgba(255,138,34,0.22)] blur-3xl",
+        "left": 165.19,
+        "right": 421.19,
+        "width": 256
+      },
+      {
+        "tag": "div",
+        "className": "pointer-events-none absolute left-[-8%] bottom-16 h-64 w-64 rounded-full bg-[rgba(204,42,31,0.2)] blur-3xl",
+        "left": -31.19,
+        "right": 224.81,
+        "width": 256
+      },
+      {
+        "tag": "div",
+        "className": "pointer-events-none absolute -left-20 top-1/2 h-56 w-56 -translate-y-1/2 rounded-full bg-[rgba(255,138,34,0.24)] blur-3x",
+        "left": -80,
+        "right": 144,
+        "width": 224
+      }
+    ]
+  },
+  {
+    "viewport": {
+      "name": "mobile-414x896",
+      "width": 414,
+      "height": 896
+    },
+    "overflowX": 0,
+    "scrollWidth": 414,
+    "viewportWidth": 414,
+    "offenders": [
+      {
+        "tag": "img",
+        "className": "object-cover object-center scale-105",
+        "left": -10.35,
+        "right": 424.35,
+        "width": 434.7
+      },
+      {
+        "tag": "div",
+        "className": "pointer-events-none absolute -right-24 top-[-15%] h-[28rem] w-[28rem] rounded-full bg-[rgba(255,138,34,0.32)] blur-3xl",
+        "left": 62,
+        "right": 510,
+        "width": 448
+      },
+      {
+        "tag": "div",
+        "className": "pointer-events-none absolute -left-12 bottom-[-20%] h-[25rem] w-[25rem] rounded-full bg-[rgba(204,42,31,0.24)] blur-3xl",
+        "left": -48,
+        "right": 352,
+        "width": 400
+      },
+      {
+        "tag": "div",
+        "className": "pointer-events-none absolute -left-36 top-18 h-72 w-72 rounded-full bg-[rgba(204,42,31,0.22)] blur-3xl",
+        "left": -144,
+        "right": 144,
+        "width": 288
+      },
+      {
+        "tag": "div",
+        "className": "pointer-events-none absolute -right-28 bottom-10 h-80 w-80 rounded-full bg-[rgba(255,138,34,0.22)] blur-3xl",
+        "left": 206,
+        "right": 526,
+        "width": 320
+      },
+      {
+        "tag": "div",
+        "className": "pointer-events-none absolute right-[-8%] top-6 h-64 w-64 rounded-full bg-[rgba(255,138,34,0.22)] blur-3xl",
+        "left": 191.11,
+        "right": 447.11,
+        "width": 256
+      },
+      {
+        "tag": "div",
+        "className": "pointer-events-none absolute left-[-8%] bottom-16 h-64 w-64 rounded-full bg-[rgba(204,42,31,0.2)] blur-3xl",
+        "left": -33.11,
+        "right": 222.89,
+        "width": 256
+      },
+      {
+        "tag": "div",
+        "className": "pointer-events-none absolute -left-20 top-1/2 h-56 w-56 -translate-y-1/2 rounded-full bg-[rgba(255,138,34,0.24)] blur-3x",
+        "left": -80,
+        "right": 144,
+        "width": 224
+      }
+    ]
+  },
+  {
+    "viewport": {
+      "name": "tablet-768x1024",
+      "width": 768,
+      "height": 1024
+    },
+    "overflowX": 0,
+    "scrollWidth": 768,
+    "viewportWidth": 768,
+    "offenders": [
+      {
+        "tag": "img",
+        "className": "object-cover object-center scale-105",
+        "left": -19.2,
+        "right": 787.2,
+        "width": 806.4
+      },
+      {
+        "tag": "div",
+        "className": "pointer-events-none absolute -right-24 top-[-15%] h-[28rem] w-[28rem] rounded-full bg-[rgba(255,138,34,0.32)] blur-3xl",
+        "left": 416,
+        "right": 864,
+        "width": 448
+      },
+      {
+        "tag": "div",
+        "className": "pointer-events-none absolute -left-12 bottom-[-20%] h-[25rem] w-[25rem] rounded-full bg-[rgba(204,42,31,0.24)] blur-3xl",
+        "left": -48,
+        "right": 352,
+        "width": 400
+      },
+      {
+        "tag": "div",
+        "className": "pointer-events-none absolute -left-36 top-18 h-72 w-72 rounded-full bg-[rgba(204,42,31,0.22)] blur-3xl",
+        "left": -144,
+        "right": 144,
+        "width": 288
+      },
+      {
+        "tag": "div",
+        "className": "pointer-events-none absolute -right-28 bottom-10 h-80 w-80 rounded-full bg-[rgba(255,138,34,0.22)] blur-3xl",
+        "left": 560,
+        "right": 880,
+        "width": 320
+      },
+      {
+        "tag": "div",
+        "className": "pointer-events-none absolute right-[-8%] top-6 h-64 w-64 rounded-full bg-[rgba(255,138,34,0.22)] blur-3xl",
+        "left": 573.44,
+        "right": 829.44,
+        "width": 256
+      },
+      {
+        "tag": "div",
+        "className": "pointer-events-none absolute left-[-8%] bottom-16 h-64 w-64 rounded-full bg-[rgba(204,42,31,0.2)] blur-3xl",
+        "left": -61.44,
+        "right": 194.56,
+        "width": 256
+      },
+      {
+        "tag": "div",
+        "className": "pointer-events-none absolute -left-20 top-1/2 h-56 w-56 -translate-y-1/2 rounded-full bg-[rgba(255,138,34,0.24)] blur-3x",
+        "left": -80,
+        "right": 144,
+        "width": 224
+      }
+    ]
+  },
+  {
+    "viewport": {
+      "name": "tablet-834x1112",
+      "width": 834,
+      "height": 1112
+    },
+    "overflowX": 0,
+    "scrollWidth": 834,
+    "viewportWidth": 834,
+    "offenders": [
+      {
+        "tag": "img",
+        "className": "object-cover object-center scale-105",
+        "left": -20.85,
+        "right": 854.85,
+        "width": 875.7
+      },
+      {
+        "tag": "div",
+        "className": "pointer-events-none absolute -right-24 top-[-15%] h-[28rem] w-[28rem] rounded-full bg-[rgba(255,138,34,0.32)] blur-3xl",
+        "left": 482,
+        "right": 930,
+        "width": 448
+      },
+      {
+        "tag": "div",
+        "className": "pointer-events-none absolute -left-12 bottom-[-20%] h-[25rem] w-[25rem] rounded-full bg-[rgba(204,42,31,0.24)] blur-3xl",
+        "left": -48,
+        "right": 352,
+        "width": 400
+      },
+      {
+        "tag": "div",
+        "className": "pointer-events-none absolute -left-36 top-18 h-72 w-72 rounded-full bg-[rgba(204,42,31,0.22)] blur-3xl",
+        "left": -144,
+        "right": 144,
+        "width": 288
+      },
+      {
+        "tag": "div",
+        "className": "pointer-events-none absolute -right-28 bottom-10 h-80 w-80 rounded-full bg-[rgba(255,138,34,0.22)] blur-3xl",
+        "left": 626,
+        "right": 946,
+        "width": 320
+      },
+      {
+        "tag": "div",
+        "className": "pointer-events-none absolute right-[-8%] top-6 h-64 w-64 rounded-full bg-[rgba(255,138,34,0.22)] blur-3xl",
+        "left": 644.72,
+        "right": 900.72,
+        "width": 256
+      },
+      {
+        "tag": "div",
+        "className": "pointer-events-none absolute left-[-8%] bottom-16 h-64 w-64 rounded-full bg-[rgba(204,42,31,0.2)] blur-3xl",
+        "left": -66.72,
+        "right": 189.28,
+        "width": 256
+      },
+      {
+        "tag": "div",
+        "className": "pointer-events-none absolute -left-20 top-1/2 h-56 w-56 -translate-y-1/2 rounded-full bg-[rgba(255,138,34,0.24)] blur-3x",
+        "left": -80,
+        "right": 144,
+        "width": 224
+      }
+    ]
+  },
+  {
+    "viewport": {
+      "name": "tablet-1024x768",
+      "width": 1024,
+      "height": 768
+    },
+    "overflowX": 0,
+    "scrollWidth": 1024,
+    "viewportWidth": 1024,
+    "offenders": [
+      {
+        "tag": "img",
+        "className": "object-cover object-center scale-105",
+        "left": -25.6,
+        "right": 1049.6,
+        "width": 1075.2
+      },
+      {
+        "tag": "div",
+        "className": "pointer-events-none absolute -right-24 top-[-15%] h-[28rem] w-[28rem] rounded-full bg-[rgba(255,138,34,0.32)] blur-3xl",
+        "left": 672,
+        "right": 1120,
+        "width": 448
+      },
+      {
+        "tag": "div",
+        "className": "pointer-events-none absolute -left-12 bottom-[-20%] h-[25rem] w-[25rem] rounded-full bg-[rgba(204,42,31,0.24)] blur-3xl",
+        "left": -48,
+        "right": 352,
+        "width": 400
+      },
+      {
+        "tag": "div",
+        "className": "pointer-events-none absolute -left-36 top-18 h-72 w-72 rounded-full bg-[rgba(204,42,31,0.22)] blur-3xl",
+        "left": -144,
+        "right": 144,
+        "width": 288
+      },
+      {
+        "tag": "div",
+        "className": "pointer-events-none absolute -right-28 bottom-10 h-80 w-80 rounded-full bg-[rgba(255,138,34,0.22)] blur-3xl",
+        "left": 816,
+        "right": 1136,
+        "width": 320
+      },
+      {
+        "tag": "div",
+        "className": "pointer-events-none absolute right-[-8%] top-6 h-64 w-64 rounded-full bg-[rgba(255,138,34,0.22)] blur-3xl",
+        "left": 849.91,
+        "right": 1105.91,
+        "width": 256
+      },
+      {
+        "tag": "div",
+        "className": "pointer-events-none absolute left-[-8%] bottom-16 h-64 w-64 rounded-full bg-[rgba(204,42,31,0.2)] blur-3xl",
+        "left": -81.91,
+        "right": 174.09,
+        "width": 256
+      },
+      {
+        "tag": "div",
+        "className": "pointer-events-none absolute -left-20 top-1/2 h-56 w-56 -translate-y-1/2 rounded-full bg-[rgba(255,138,34,0.24)] blur-3x",
+        "left": -80,
+        "right": 144,
+        "width": 224
+      }
+    ]
+  },
+  {
+    "viewport": {
+      "name": "laptop-1280x800",
+      "width": 1280,
+      "height": 800
+    },
+    "overflowX": 0,
+    "scrollWidth": 1280,
+    "viewportWidth": 1280,
+    "offenders": [
+      {
+        "tag": "img",
+        "className": "object-cover object-center scale-105",
+        "left": -32,
+        "right": 1312,
+        "width": 1344
+      },
+      {
+        "tag": "div",
+        "className": "pointer-events-none absolute -right-24 top-[-15%] h-[28rem] w-[28rem] rounded-full bg-[rgba(255,138,34,0.32)] blur-3xl",
+        "left": 928,
+        "right": 1376,
+        "width": 448
+      },
+      {
+        "tag": "div",
+        "className": "pointer-events-none absolute -left-12 bottom-[-20%] h-[25rem] w-[25rem] rounded-full bg-[rgba(204,42,31,0.24)] blur-3xl",
+        "left": -48,
+        "right": 352,
+        "width": 400
+      },
+      {
+        "tag": "div",
+        "className": "pointer-events-none absolute -left-36 top-18 h-72 w-72 rounded-full bg-[rgba(204,42,31,0.22)] blur-3xl",
+        "left": -144,
+        "right": 144,
+        "width": 288
+      },
+      {
+        "tag": "div",
+        "className": "pointer-events-none absolute -right-28 bottom-10 h-80 w-80 rounded-full bg-[rgba(255,138,34,0.22)] blur-3xl",
+        "left": 1072,
+        "right": 1392,
+        "width": 320
+      },
+      {
+        "tag": "div",
+        "className": "pointer-events-none absolute right-[-8%] top-6 h-64 w-64 rounded-full bg-[rgba(255,138,34,0.22)] blur-3xl",
+        "left": 1126.39,
+        "right": 1382.39,
+        "width": 256
+      },
+      {
+        "tag": "div",
+        "className": "pointer-events-none absolute left-[-8%] bottom-16 h-64 w-64 rounded-full bg-[rgba(204,42,31,0.2)] blur-3xl",
+        "left": -102.39,
+        "right": 153.61,
+        "width": 256
+      },
+      {
+        "tag": "div",
+        "className": "pointer-events-none absolute -left-20 top-1/2 h-56 w-56 -translate-y-1/2 rounded-full bg-[rgba(255,138,34,0.24)] blur-3x",
+        "left": -80,
+        "right": 144,
+        "width": 224
+      }
+    ]
+  },
+  {
+    "viewport": {
+      "name": "laptop-1366x768",
+      "width": 1366,
+      "height": 768
+    },
+    "overflowX": 0,
+    "scrollWidth": 1366,
+    "viewportWidth": 1366,
+    "offenders": [
+      {
+        "tag": "img",
+        "className": "object-cover object-center scale-105",
+        "left": -34.15,
+        "right": 1400.15,
+        "width": 1434.3
+      },
+      {
+        "tag": "div",
+        "className": "pointer-events-none absolute -right-24 top-[-15%] h-[28rem] w-[28rem] rounded-full bg-[rgba(255,138,34,0.32)] blur-3xl",
+        "left": 1014,
+        "right": 1462,
+        "width": 448
+      },
+      {
+        "tag": "div",
+        "className": "pointer-events-none absolute -left-12 bottom-[-20%] h-[25rem] w-[25rem] rounded-full bg-[rgba(204,42,31,0.24)] blur-3xl",
+        "left": -48,
+        "right": 352,
+        "width": 400
+      },
+      {
+        "tag": "div",
+        "className": "pointer-events-none absolute -left-36 top-18 h-72 w-72 rounded-full bg-[rgba(204,42,31,0.22)] blur-3xl",
+        "left": -144,
+        "right": 144,
+        "width": 288
+      },
+      {
+        "tag": "div",
+        "className": "pointer-events-none absolute -right-28 bottom-10 h-80 w-80 rounded-full bg-[rgba(255,138,34,0.22)] blur-3xl",
+        "left": 1158,
+        "right": 1478,
+        "width": 320
+      },
+      {
+        "tag": "div",
+        "className": "pointer-events-none absolute right-[-8%] top-6 h-64 w-64 rounded-full bg-[rgba(255,138,34,0.22)] blur-3xl",
+        "left": 1219.27,
+        "right": 1475.27,
+        "width": 256
+      },
+      {
+        "tag": "div",
+        "className": "pointer-events-none absolute left-[-8%] bottom-16 h-64 w-64 rounded-full bg-[rgba(204,42,31,0.2)] blur-3xl",
+        "left": -109.27,
+        "right": 146.73,
+        "width": 256
+      },
+      {
+        "tag": "div",
+        "className": "pointer-events-none absolute -left-20 top-1/2 h-56 w-56 -translate-y-1/2 rounded-full bg-[rgba(255,138,34,0.24)] blur-3x",
+        "left": -80,
+        "right": 144,
+        "width": 224
+      }
+    ]
+  },
+  {
+    "viewport": {
+      "name": "laptop-1440x900",
+      "width": 1440,
+      "height": 900
+    },
+    "overflowX": 0,
+    "scrollWidth": 1440,
+    "viewportWidth": 1440,
+    "offenders": [
+      {
+        "tag": "img",
+        "className": "object-cover object-center scale-105",
+        "left": -36,
+        "right": 1476,
+        "width": 1512
+      },
+      {
+        "tag": "div",
+        "className": "pointer-events-none absolute -right-24 top-[-15%] h-[28rem] w-[28rem] rounded-full bg-[rgba(255,138,34,0.32)] blur-3xl",
+        "left": 1088,
+        "right": 1536,
+        "width": 448
+      },
+      {
+        "tag": "div",
+        "className": "pointer-events-none absolute -left-12 bottom-[-20%] h-[25rem] w-[25rem] rounded-full bg-[rgba(204,42,31,0.24)] blur-3xl",
+        "left": -48,
+        "right": 352,
+        "width": 400
+      },
+      {
+        "tag": "div",
+        "className": "pointer-events-none absolute -left-36 top-18 h-72 w-72 rounded-full bg-[rgba(204,42,31,0.22)] blur-3xl",
+        "left": -144,
+        "right": 144,
+        "width": 288
+      },
+      {
+        "tag": "div",
+        "className": "pointer-events-none absolute -right-28 bottom-10 h-80 w-80 rounded-full bg-[rgba(255,138,34,0.22)] blur-3xl",
+        "left": 1232,
+        "right": 1552,
+        "width": 320
+      },
+      {
+        "tag": "div",
+        "className": "pointer-events-none absolute right-[-8%] top-6 h-64 w-64 rounded-full bg-[rgba(255,138,34,0.22)] blur-3xl",
+        "left": 1299.19,
+        "right": 1555.19,
+        "width": 256
+      },
+      {
+        "tag": "div",
+        "className": "pointer-events-none absolute left-[-8%] bottom-16 h-64 w-64 rounded-full bg-[rgba(204,42,31,0.2)] blur-3xl",
+        "left": -115.19,
+        "right": 140.81,
+        "width": 256
+      },
+      {
+        "tag": "div",
+        "className": "pointer-events-none absolute -left-20 top-1/2 h-56 w-56 -translate-y-1/2 rounded-full bg-[rgba(255,138,34,0.24)] blur-3x",
+        "left": -80,
+        "right": 144,
+        "width": 224
+      }
+    ]
+  }
+]
