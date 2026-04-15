@@ -1,4 +1,4 @@
-﻿"use client";
+"use client";
 
 import { useLayoutEffect, useRef } from "react";
 import Image from "next/image";
@@ -143,7 +143,7 @@ export default function HeroShowcase() {
         <div ref={imageLayerRef} className="absolute inset-0 will-change-transform">
           <Image
             src="restaurant-hero.jpg"
-            alt="Ø£Ø¬ÙˆØ§Ø¡ Ù…Ø·Ø¹Ù… Ø§Ù„Ø±ÙŠØ§Ù†"
+            alt="أجواء مطعم الريان"
             fill
             priority
             className="object-cover object-center scale-105"
@@ -173,10 +173,10 @@ export default function HeroShowcase() {
                 className="hero-kinetic text-4xl font-extrabold leading-[1.08] tracking-[0.03em] sm:text-5xl md:text-7xl lg:text-8xl"
               >
                 <span className="block overflow-hidden">
-                  <span className="hero-word block">Ù…Ø·Ø¹Ù…</span>
+                  <span className="hero-word block">مطعم</span>
                 </span>
                 <span className="block overflow-hidden">
-                  <span className="hero-word block">Ø§Ù„Ø±ÙŠØ§Ù†</span>
+                  <span className="hero-word block">الريان</span>
                 </span>
               </h1>
 
@@ -192,7 +192,7 @@ export default function HeroShowcase() {
                 whileTap={{ scale: 0.97 }}
                 className="hero-cta inline-flex w-full items-center justify-center rounded-full border border-white/45 bg-white/10 px-6 py-3 text-sm font-semibold text-white backdrop-blur-sm sm:w-fit md:text-base"
               >
-                Ø¹Ø±Ø¶ Ø§Ù„Ù…Ù†ÙŠÙˆ
+                عرض المنيو
               </motion.a>
 
               <div className="hero-contact flex flex-wrap gap-3 text-sm md:text-base">
@@ -202,7 +202,7 @@ export default function HeroShowcase() {
                   rel="noreferrer"
                   className="rounded-full border border-[#ffd8a0]/45 bg-[#2d120d]/60 px-5 py-2.5 font-semibold text-[#ffd8a0] transition hover:bg-[#3b1711]"
                 >
-                  Ø§ØªØµØ§Ù„ Ù…Ø¨Ø§Ø´Ø±
+                  اتصال مباشر
                 </a>
               </div>
             </div>
@@ -214,12 +214,12 @@ export default function HeroShowcase() {
               className="hidden rounded-3xl border border-white/25 bg-[#2d120d]/55 p-6 backdrop-blur-md md:block"
             >
               <p className="text-sm font-semibold uppercase tracking-[0.12em] text-[#ffd8a0]">
-                ØªØ¬Ø±Ø¨Ø© Ø§Ù„Ø±ÙŠØ§Ù†
+                تجربة الريان
               </p>
               <div className="mt-4 space-y-3 text-lg md:text-xl">
-                <p className="hero-story-line [clip-path:inset(100%_0_0_0)]">Ù…Ø´ÙˆÙŠØ§Øª Ø¹Ù„Ù‰ Ø§Ù„ÙØ­Ù… Ø¨Ù†ÙƒÙ‡Ø§Øª Ù…ØªÙˆØ§Ø²Ù†Ø©.</p>
-                <p className="hero-story-line [clip-path:inset(100%_0_0_0)]">Ù…Ù‚Ø¨Ù„Ø§Øª Ø³Ø§Ø®Ù†Ø© ÙˆØ³Ø±ÙŠØ¹Ø© Ø§Ù„ØªØ­Ø¶ÙŠØ±.</p>
-                <p className="hero-story-line [clip-path:inset(100%_0_0_0)]">Ø®Ø¯Ù…Ø© ØªÙˆØµÙŠÙ„ Ø³Ø±ÙŠØ¹Ø© ØªØºØ·ÙŠ Ø§Ù„Ù…Ø¯ÙŠÙ†Ø©.</p>
+                <p className="hero-story-line [clip-path:inset(100%_0_0_0)]">مشويات على الفحم بنكهات متوازنة.</p>
+                <p className="hero-story-line [clip-path:inset(100%_0_0_0)]">مقبلات ساخنة وسريعة التحضير.</p>
+                <p className="hero-story-line [clip-path:inset(100%_0_0_0)]">خدمة توصيل سريعة تغطي المدينة.</p>
               </div>
             </motion.div>
           </div>
@@ -228,4 +228,3 @@ export default function HeroShowcase() {
     </section>
   );
 }
-
